@@ -1,0 +1,1 @@
+console.log("hi,This is the first code of javascript.")
